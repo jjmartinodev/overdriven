@@ -2,6 +2,14 @@
 name = "overdriven"
 version = "0.1.0"
 edition = "2021"
+rust-version = "1.56"
+authors = ["sugmaboy<jjmartinodev@outlook.com>"]
+readme = "README.md"
+license-file = "LICENSE"
+description = "a wgpu context creator"
+repository = "https://github.com/jjmartinodev/overdriven"
+keywords = ["gfx","graphics"]
+categories = ["graphics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
