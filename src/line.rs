@@ -1,5 +1,4 @@
 use bytemuck::{Pod, Zeroable};
-use wgpu::util::{BufferInitDescriptor, DeviceExt};
 
 use crate::{core::mesh::{Mesh, Vertex}, Context};
 

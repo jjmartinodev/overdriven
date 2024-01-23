@@ -1,5 +1,3 @@
-use std::marker::PhantomData;
-
 use winit::{dpi::PhysicalSize, window::Window};
 
 pub mod core;
