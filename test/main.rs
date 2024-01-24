@@ -36,7 +36,7 @@ fn main() {
                     WindowEvent::KeyboardInput { input, .. } => {
                         match input.virtual_keycode.unwrap() {
                             VirtualKeyCode::Key0 => {
-                                lines.push(((0.,0.,0.,0.),(-0.001,-0.0001,0.001,0.0001)));
+                                lines.push(((0.,0.,0.,0.),(-0.0011,-0.0001,0.0011,0.0001)));
                             },
                             _ => ()
                         }
